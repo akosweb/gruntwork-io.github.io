@@ -250,8 +250,8 @@
     - title:
       legalese: |
         <p id="trial-period-terms"><strong>1.6. Trial Period.</strong></p>
-        <p class="col-md-offset-1"><strong>1.6.1. Trial Period Effective Date.</strong> You are entitled to a 30-day trial period (the “Trial Period”). If you use the Gruntwork Subscription and do not register for the Reference Architecture, the Trial Period will begin on the date you receive access to the Library Repos (as defined in 3.1 below). If you use the Gruntwork Subscription and register for the Reference Architecture, the Trial Period will begin on the date Gruntwork commits to deploying your Reference Architecture (as defined in 3.2 of the Reference Architecture Terms).</p>
-        <p class="col-md-offset-1"><strong>1.6.2 Termination by You During Trial Period.</strong> If you terminate your Gruntwork Subscription during the Trial Period, (a) Gruntwork will refund you all amounts you have paid Gruntwork for the Gruntwork Subscription, Dedicated Support and Reference Architecture, (b) you will not be subject to the Minimum Term (as defined in 1.1 above), and 1.3 and 1.4 above shall not apply, (c) notwithstanding 1.5 above, the License shall immediately terminate in full and you shall immediately cease use of all Gruntwork intellectual property, including all of your forks of the Gruntwork source code repositories, and (d) notwithstanding 1.3 of the Reference Architecture Terms, the License for the Reference Architecture created by Gruntwork specifically for you shall immediately terminate in full and you shall immediately cease use of the Reference Architecture.</p>
+        <p class="col-md-offset-1"><strong>1.6.1. Trial Period Effective Date.</strong> You are entitled to a 30-day trial period (the “Trial Period”). If you use the Gruntwork Subscription and do not register for the Reference Architecture, the Trial Period will begin on the date you receive access to the Library Repos (as defined in 3.1 below). If you use the Gruntwork Subscription and register for the Reference Architecture, the Trial Period will begin on the date Gruntwork deploys your Reference Architecture (as defined in 3.2 of the Reference Architecture Terms).</p>
+        <p class="col-md-offset-1"><strong>1.6.2 Termination by You During Trial Period.</strong> If you terminate your Gruntwork Subscription during the Trial Period, (a) Gruntwork will refund you all amounts you have paid Gruntwork for the Gruntwork Subscription, Reference Architecture, and Houston (b) you will not be subject to the Minimum Term (as defined in 1.1 above), and 1.3 and 1.4 above shall not apply, (c) notwithstanding 1.5 above, the License shall immediately terminate in full and you shall immediately cease use of all Gruntwork intellectual property, including all of your forks of the Gruntwork source code repositories, and (d) notwithstanding 1.3 of the Reference Architecture Terms, the License for the Reference Architecture created by Gruntwork specifically for you shall immediately terminate in full and you shall immediately cease use of the Reference Architecture.</p>
       plain: |
         You can cancel your Gruntwork Subscription within the first 30 days and we'll refund 100% of your money. If you cancel during this trial period, you lose the rights to use Gruntwork's code.
 
@@ -283,7 +283,94 @@
       legalese: |
         <p><strong>3.4. Community Support.</strong> Gruntwork provides a community chat room where Gruntwork customers may ask questions, discuss design decisions, and work together as a community. Gruntwork employees will periodically monitor this chat room and provide help when appropriate. This communication will be done over a medium determined by Gruntwork, such as a Slack channel.</p>
       plain:  |
-        Gruntwork offers a free <a href="/support" title="Community Support">community support tier</a>.
+        We'll email you about urgent security vulnerabilities.
+
+    - title:
+      legalese: |
+        <p><strong>3.5. Additional Community Tier Features.</strong></p>
+      plain:
+
+    - title:
+      legalese: |
+        <p><strong>3.5.1 Community Chat Room.</strong> Gruntwork provides a community chat room where Gruntwork customers may ask questions, discuss design decisions, and work together as a community. This communication will be done over a medium determined by Gruntwork, such as a Gitter or Slack channel.</p>
+        <p><strong>3.5.2 No Service Level Agreement.</strong> Gruntwork employees may but are not obligated to monitor the community chat room and provide help when appropriate. Gruntwork employees may be delayed in responding or may not respond at all to messages submitted via the community chat room.</p>
+      plain:  |
+        All Gruntwork users can participate in our community Slack workspace, but we don't guarantee a response from Gruntwork engineers.
+
+    - title:
+      legalese: |
+        <p><strong>3.6 Additional Professional Tier Features.</strong></p>
+        <p><strong>3.6.1 Community Chat Room.</strong> All Authorized Users will have access to the Gruntwork Community chat room described in section 3.5.1.</p>
+      plain:
+
+    - title:
+      legalese: |
+        <p><strong>3.6.2. Supported Requests.</strong> Any Authorized User may submit a support request (“Professional Support Request”) to Gruntwork. Professional Support Requests may involve questions, troubleshooting, and bug fixes. All Professional Support Requests must be reasonably related to your Gruntwork Subscription. Gruntwork shall not be obligated to provide custom development in response to a Professional Support Request; however, Gruntwork, at its discretion, may offer to perform custom development for free (e.g., for bug fixes) or as part of a separate statement of work (e.g., for developing new modules).</p>
+      plain:  |
+        This section describes what's in scope for Professional Support. For more information, see <a target="_blank" rel="internal" href="/support/">https://gruntwork.io/support</a>.
+
+    - title:
+      legalese: |
+        <p><strong>3.6.3. Email Support.</strong> Authorized Users may submit Professional Support Requests by emailing support@gruntwork.io or by using online helpdesk software specified by Gruntwork.</p>
+        <p><strong>3.6.4. Private Slack Support.</strong> Authorized Users may submit Professional Support Requests via a shared channel on Slack, which shall be private to you and Gruntwork and not accessible by other Gruntwork customers.</p>
+      plain:  |
+        We'll provide support via email or a Slack channel shared between your Slack workspace and ours.
+
+    - title:
+      legalese: |
+        <p><strong>3.6.5. Two Business Day Service Level Agreement.</strong> Gruntwork shall make a good-faith effort to respond to the Professional Support Request within a reasonable timeframe, but for the first 5 requests per day or first 100 requests per month, whichever occurs first, Gruntwork shall respond no later than two business days after the Professional Support Request was received by Gruntwork.</p>
+      plain:  |
+        We'll respond to your inquiries as soon as we can, but never after more than 2 business days.
+
+    - title:
+      legalese: |
+        <p><strong>3.7. Enterprise Tier Features.</strong></p>
+        <p><strong>3.7.1 Community Chat Room.</strong> All Authorized Users will have access to the Gruntwork Community chat room described in section 3.5.1.</p>
+      plain:
+
+    - title:
+      legalese: |
+        <p><strong>3.7.2. Supported Requests.</strong> Any Authorized User may submit a support request (“Enterprise Support Request”) to Gruntwork. Enterprise Support Requests may involve questions, troubleshooting, code reviews, design reviews, architecture reviews, and bug fixes. All Enterprise Support Requests must be reasonably related to your Gruntwork Subscription. Gruntwork shall not be obligated to provide custom development in response to an Enterprise Support Request; however, Gruntwork, at its discretion, may offer to perform custom development for free (e.g., for bug fixes) or as part of a separate statement of work (e.g., for developing new modules).</p>
+      plain:  |
+        This section describes what's in scope for Enterprise Support. For more information, see <a target="_blank" rel="internal" href="/support/">https://gruntwork.io/support</a>.
+
+    - title:
+      legalese: |
+        <p><strong>3.7.3. Email Support.</strong> Authorized Users may submit Enterprise Support Requests by emailing support@gruntwork.io or by using online helpdesk software specified by Gruntwork.</p>
+        <p><strong>3.7.4. Slack Support.</strong> Authorized Users may submit Enterprise Support Requests via a shared channel on Slack, which shall be private to you and Gruntwork and not accessible by other Gruntwork customers.</p>
+      plain:  |
+        We'll provide support via email or a Slack channel shared between your Slack workspace and ours.
+
+    - title:
+      legalese: |
+        <p><strong>3.7.5. Phone/Video Support.</strong> If Gruntwork and you mutually determine that an Enterprise Support Request cannot be resolved asynchronously, the Parties will engage in a real-time phone or video chat.</p>
+      plain:  |
+        If needed, we'll schedule a real-time chat.
+
+    - title:
+      legalese: |
+        <p><strong>3.7.6. Same Day Service Level Agreement.</strong> Gruntwork shall make a good-faith effort to respond to the Enterprise Support Request as soon as possible, but for the first 5 requests per day or first 100 requests per month, whichever occurs first, Gruntwork shall respond no later than four business hours after the Enterprise Support Request was received by Gruntwork, unless the request was received after 2:00pm Pacific Time, in which case Gruntwork will respond no later than 10:00am Pacific Time on the next business day. Gruntwork business hours are from 9:00am - 5:00pm Pacific Time, Monday through Friday, subject to sections 3.4 and 3.5.</p>
+      plain:  |
+        We'll respond to your inquiries the same business day, or no later than the next morning if we get your request after 2pm Pacific Time.
+
+    - title:
+      legalese: |
+        <p><strong>3.7.7. Prioritized Bug Fixes.</strong> When an Enterprise Support Request identifies a bug in any Gruntwork Service, provided that the bug can be systematically reproduced by either you or Gruntwork, Gruntwork will begin work to fix the bug within two business days of receiving the Enterprise Support Request.</p>
+      plain:  |
+        When you discover a bug in any of our software, we'll start working on a fix within 2 business days.
+
+    - title:
+      legalese: |
+        <p><strong>3.7.8. DevOps Bootcamp Availability.</strong> You shall have the right to purchase the Gruntwork DevOps Bootcamp service, as detailed in a separate statement of work to be signed between you and Gruntwork.</p>
+      plain:  |
+        As an Enterprise customer, you can purchase our DevOps Bootcamp.
+
+    - title:
+      legalese: |
+        <p><strong>3.8. Availability.</strong> From time to time, for example on national holidays, no Gruntwork personnel may be available to handle Professional Support Requests or Enterprise Support Requests. In such case, Gruntwork shall notify you of such days via the Newsletter. Gruntwork hereby agrees that it shall limit business days on which no Gruntwork personnel are available to no more than fifteen (15) days per year.</p>
+        <p><strong>3.9. No Emergency Support.</strong> GRUNTWORK DOES NOT WARRANT THAT ITS PERSONNEL WILL BE AVAILABLE ON SHORT NOTICE IN THE EVENT OF AN EMERGENCY. HANDLING AN INFRASTRUCTURE EMERGENCY SHALL REMAIN YOUR SOLE RESPONSIBILITY.</p>
+      plain:  |
+        We do not provide 24/7 coverage or emergency support. There may also be days like Christmas or New Year's when no one is available for support inquiries, but we'll let you know in advance if such a day will occur.
 
     - title: 4. Disclaimer Regarding Software Updates
       legalese: |
@@ -352,7 +439,7 @@
         <p><strong>1.2. Termination by You.</strong> If you terminate these Reference Architecture Terms, you shall not be entitled to any refund of any prepaid fees, unless you terminate these Reference Architecture Terms during the Trial Period (as defined in <a href="#1-6-1-trial-period-effective-date" title="Gruntwork Subscription Terms - 1.6.1">1.6.1</a> of the Gruntwork Subscription Terms).</p>
         <p><strong>1.3. Post-Termination Rights.</strong> Upon termination of these Reference Architecture Terms, provided that Gruntwork has deployed the Reference Architecture and you have fully paid all fees owed under the Gruntwork Subscription Terms and these Reference Architecture Terms, the License shall remain in effect for the Reference Architecture created by Gruntwork specifically for you.</p>
       plain:  |
-        Once you sign up for the Reference Architecture, we don't offer a refund (unless we fail to deliver what we said we would).
+        Once you sign up for the Reference Architecture, we don't offer a refund unless we fail to deliver what we said we would or you cancel within 30 days of Gruntwork deploying the Reference Architecture.
 
     - title: 2. Payment Terms
       legalese: |
@@ -378,6 +465,7 @@
         <p><strong>1.1. Term and Termination.</strong> Your use of Houston, and these Houston Terms, will begin on the date you deploy Houston in your Amazon Web Services (“AWS”) account(s) until the earlier of (a) the termination of your Gruntwork Subscription or (b) the termination of your use of Houston and these Houston Terms pursuant to <a href="#1-2-your-termination-for-convenience">Section 1.2</a> or <a href="#1-3-termination-by-gruntwork">Section 1.3</a> below.</p>
       plain: |
         You can use Gruntwork Houston while you have an active Gruntwork Subscription.
+
     - title:
       legalese: |
         <p><strong>1.2. Your Termination for Convenience.</strong> Your use of Houston, and these Houston Terms, may be terminated by you on provision of at least 15 days’ written notice to Gruntwork that clearly identifies Houston.</p>
@@ -385,16 +473,19 @@
       plain: |
         <p>You can terminate these Houston terms at any time with 15 days' notice.</p>
         <p>We can only terminate your right to use Houston if you don't pay us on time, you breach these Terms of Service, you declare bankruptcy, or we think your use of Houston is a legal or security threat.</p>
+
     - title:
       legalese: |
         <p><strong>1.4. Post-Termination Usage Rights.</strong> Upon termination of Houston, Gruntwork shall immediately revoke your access to Houston, and you shall immediately cease use of all Gruntwork intellectual property related to Houston.  Termination of your use of Houston, and these Houston Terms, shall represent termination only of Houston and these Houston Terms, and shall not affect any other Services or terms which Gruntwork and you may then have outstanding.</p>
       plain: |
         If either Gruntwork or you terminates your right to use Houston, you have to stop using it completely.
+
     - title:
       legalese: |
         <p><strong>1.5. Post-Termination Data Rights.</strong> Because Houston is designed to create a unified experience around your existing third-party software tools, termination of your use of Houston will not affect your access to the data stored in your third-party tools. Any data stored specifically for the operation of Houston is stored in your own Amazon Web Services account(s). Following termination of your use of Houston, you may not access such Houston-specific data via Houston user interfaces or APIs, but you shall maintain access via standard AWS interfaces.</p>
       plain: |
         Houston sits on top of other tools like GitHub, Jenkins/CircleCI, and AWS. So if either Gruntwork or you terminates your right to use Houston, you will still have access to all those tools and their data. You'll even have access to any data that Houston created, but you won't be able to access that data via a Houston UI or API.
+
     - title: 2. Payment Terms
       legalese: |
         <p>Your payment for the Gruntwork Subscription entitles your Authorized Users for your Gruntwork Subscription to also use Houston.</p>
@@ -407,7 +498,8 @@
       legalese: |
         <p><strong>3.2. Authentication to Amazon Web Services.</strong> Houston enables you to authenticate to one or more of your AWS accounts using any Identity Provider that is compatible with Houston and which you configure for use with Houston. An “Identity Provider” is a system entity that creates, maintains, and manages identity information for principals while providing authentication services to relying party applications within a federation or distributed network.</p>
       plain: |
-        One feature of Houston allows you to authenticate to AWS, VPN, and SSH using an Identity Provider of your choice such as Okta, OneLogin, Google, or Active Directory.
+        As a Houston Auth user, you will have the ability to authenticate in various way to AWS.
+
     - title:
       legalese: |
         <p><strong>3.3. Updates to Gruntwork Houston.</strong> From time to time, Gruntwork will release new features, bug fixes, security patches, automated tests, documentation, and other improvements to Houston (collectively, “Houston Updates”). You are responsible for deploying updates to Houston when they become available, however Houston may periodically query Gruntwork-managed services for Houston Updates and install Houston Updates automatically if they are available.</p>
@@ -419,41 +511,49 @@
         <p><strong>4.1. Certain Features Require Configuration.</strong> You will be required to configure or deploy modules and tools according to Gruntwork's instructions in order to use certain features of Houston. Your failure to configure or deploy specific modules and tools according to Gruntwork's instructions may affect your ability to utilize certain Houston features.</p>
       plain: |
         Some Houston features like "SSH with Houston" will only work if you configure your environment correctly.
+
     - title:
       legalese: |
         <p><strong>4.2. Protecting Your AWS Account.</strong> Because Houston runs in your AWS account, any user with privileged access to that account will be capable of subverting Houston’s security measures. Therefore, it is your responsibility to ensure that only trusted members of your team have privileged access to the AWS account in which Houston runs. The security of your AWS account is your responsibility, and you are solely liable for any claim, damage or other liabilities of any nature suffered by Gruntwork or any third party due to the act of any individuals using your AWS account, provided that such claim, damage or other liabilities are not directly due to Gruntwork’s gross negligence or willful misconduct.</p>
       plain: |
         Houston runs in your own AWS account, so any user that has admin privileges to that account will have the ability to hack Houston's security measures. Therefore, it's your responsibility to limit access to the AWS account where Houston runs.
+
     - title:
       legalese: |
         <p><strong>4.3. Protecting Your Identity Provider.</strong> By design, Houston trusts all assertions made by your Identity Provider and has no direct control over its configuration. The security and configuration of your Identity Provider is your responsibility, and you are solely liable for any claim, damage or other liabilities of any nature suffered by Gruntwork or any third party based on Gruntwork’s use of your configuration of your Identity Provider.</p>
       plain: |
         Houston is designed to trust your Identity Provider, so if your Identity Provider is hacked, Houston will not know the difference. Therefore, it's your responsibility to secure your Identity Provider.
+
     - title: 5. Additional Provisions
       legalese: |
         <p><strong>5.1 No Derivative Works or Modification.</strong> Notwithstanding <a href="#6-1-customer-license">Section 6.1</a> of the Terms, you are prohibited from creating derivative works of or otherwise modifying Houston.</p>
       plain: |
         You cannot modify Houston or use Houston source code to create your own new intellectual property.
+
     - title:
       legalese: |
         <p><strong>5.2 License to Customer Data.</strong> “Customer Data” means any data or information automatically collected by Gruntwork, through your use of Houston, relating to your infrastructure and AWS accounts that you connect to and manage with Houston. Between you and Gruntwork, you shall own all right, title, and interest in and to Customer Data.  It is your sole responsibility to backup your Customer Data, and you agree and acknowledge that post termination of these Houston Terms, you may not have access to your Customer Data.  You hereby grant to Gruntwork a royalty-free, non-exclusive license to (a) use, copy, reproduce, store, display, modify and make derivative works of Customer Data solely for purposes of providing the Services to you, and (b) use the Customer Data, in aggregate and anonymous format (not identifiable to you), for any business or commercial purpose, including statistical analysis with respect to usage and traffic patterns, improving the Services, in connection with the further development of the Services, or for marketing and reporting purposes.</p>
       plain: |
         Any information you create with Houston is owned by you, and we can only use that data to operate Houston for your company. However, if we anonymize that data, we may use it to help provide valuable services to other customers like community insights.
+
     - title:
       legalese: |
         <p><strong>5.3. Disclaimer of Warranties.</strong> In addition to the disclaimer of warranties in the Terms, Gruntwork will have no responsibility or liability of any kind arising or resulting from: (a) your or your Authorized Users’ use of any version of Houston other than the then-current unmodified version provided to you; (b) problems caused by failed Internet connections or other hardware, software or equipment which is not owned, controlled or operated by Gruntwork; (c) nonconformities resulting from abuse, negligence, or improper or unauthorized use of all or any part of Houston; or (d) material modification, amendment, revision, or change to Houston by any party other than Gruntwork or Gruntwork-authorized representatives.</p>
       plain: |
         If your users use an old version of Houston, have network issues, try to abuse Houston, or modify Houston in an unauthorized way, Gruntwork will not be liable for the consequences.
+
     - title:
       legalese: |
         <p><strong>5.4. Data Security.</strong> Gruntwork will implement and maintain reasonable practices, procedures, and systems, including administrative, technical, and physical safeguards designed to (i) protect the security, confidentiality, and integrity of Customer Data; (ii) ensure against reasonably anticipated threats or hazards to the security or integrity of Customer Data; (iii) protect against unauthorized access to or use of Customer Data; and (iv) otherwise comply with its obligations under the terms of this Agreement.  These safeguards include, without limitation, a written data security plan, employee training, information access controls, and restricted disclosures.</p>
       plain: |
          We will make a reasonable attempt to secure Houston!
+
     - title:
       legalese: |
         <p><strong>5.5. Sensitive Data.</strong> You acknowledge and agree that although Houston is designed to collect and store Customer Data, Houston is not designed to store personally identifiable information or other sensitive information except personally identifiable information related to your Authorized Users.  Accordingly, you will not submit or enable the collection of: (i) any personally identifiable information, except as necessary for the establishment of an account for an Authorized User or (ii) any other information subject to regulation or protection under specific laws such as the Gramm-Leach-Bliley Act (or related rules or regulations) ((i) and (ii), collectively, “Sensitive Data”).  NOTWITHSTANDING THE PROVISIONS OF <a href="#7-confidentiality">SECTION 7</a> OF THE TERMS, GRUNTWORK HAS NO LIABILITY UNDER THE TERMS OR THESE HOUSTON TERMS FOR THE PROTECTION OF SENSITIVE DATA EXCEPT TO THE EXTENT RESULTING FROM GRUNTWORK’S BREACH OF THE TERMS OR THESE HOUSTON TERMS.</p>
       plain: |
         Houston is not designed to store personally identifiable information such as Social Security Numbers, so you should not use Houston to submit or collect such information.
+
     - title:
       legalese: |
         <p><strong>5.6. Feedback.</strong> You hereby grant Gruntwork a royalty-free, worldwide, transferable, sublicensable, irrevocable, perpetual license to use or incorporate into Houston any suggestions, enhancement requests, recommendations or other feedback provided by you or your Authorized Users relating to Houston.</p>
